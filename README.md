@@ -59,7 +59,7 @@
 
 ### Dashboard
 
-![Dashboard](screenshot/sashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ### Markets
 
@@ -67,7 +67,7 @@
 
 ### Ai Signals
 
-![Ai Signals](screenshot/ai-Signal.png)
+![Ai Signals](screenshot/ai-signal.png)
 
 ### Terminal
 
