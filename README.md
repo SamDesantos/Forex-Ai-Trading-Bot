@@ -2,7 +2,7 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64%20(Desktop%20EXE)-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/SamDesantos/)
 [![Status](https://img.shields.io/badge/Release-v1.0.0%20Stable-10B981?style=flat-square)](https://github.com/SamDesantos/)
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Forex Ai Trading Bot** is a high-performance, institutional-grade autonomous desktop trading terminal tailored for quantitative and algorithmic Forex traders. Powered by an ultra-lightweight desktop engine and multi-model AI consensus algorithms, it delivers sub-millisecond execution simulations, live global session tracking, real-time Order Book DOM depth, advanced risk safeguards, and algorithmic trade automation.
 
@@ -52,6 +52,26 @@
 - **Cross Pairs**: `EUR/GBP`, `EUR/JPY`, `GBP/JPY`, `EUR/AUD`, `GBP/CAD`, `AUD/JPY`
 - **Metals & Commodities**: `XAU/USD` (Gold), `XAG/USD` (Silver), `WTI/USD` (Crude Oil)
 - **Indices & Macro Assets**: `DXY` (US Dollar Index), `US30`, `SPX500`
+
+---
+
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](screenshot/sashboard.png)
+
+### Markets
+
+![Markets](screenshot/markets.png)
+
+### Ai Signals
+
+![Ai Signals](screenshot/ai-Signal.png)
+
+### Terminal
+
+![Terminal](screenshot/terminal.png)
 
 ---
 
