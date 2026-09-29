@@ -6,6 +6,12 @@
 
 **Forex Ai Trading Bot** is a high-performance, institutional-grade autonomous desktop trading terminal tailored for quantitative and algorithmic Forex traders. Powered by an ultra-lightweight desktop engine and multi-model AI consensus algorithms, it delivers sub-millisecond execution simulations, live global session tracking, real-time Order Book DOM depth, advanced risk safeguards, and algorithmic trade automation.
 
+<p align="center">
+  <a href="/Forex-Ai-Trading.exe">
+    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD-WINDOWS%20EXE-2ea44c?style=for-the-badge" alt="Download Windows EXE">
+  </a>
+</p>
+
 ---
 
 ## 🌟 Key Features
